@@ -2,7 +2,8 @@
 Structured data about Panama papers collected from the official ICIJ website 
 
 ### Dataset structure
-```├── de.csv
+```
+├── de.csv
 ├── en.csv
 ├── es.csv
 ├── fr.csv
@@ -22,6 +23,7 @@ Structured data about Panama papers collected from the official ICIJ website
     ├── fb7f4be3.json
     └── ff9bbc4d.json
 ```
+
 ### Explore the data
 the main data provided by ICIJ can be found in CSV file, that is available in 4 languages
 
