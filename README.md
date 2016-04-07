@@ -1,6 +1,7 @@
 # Panama Papers Dataset 2016
 Structured data about Panama papers collected from the official ICIJ website 
-
+### How were the data collected ?
+I wrote a detailed explanation [here](COLLECTION.md)
 ### Dataset structure
 ```
 ├── de.csv
