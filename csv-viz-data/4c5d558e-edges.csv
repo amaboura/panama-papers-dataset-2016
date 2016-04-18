@@ -1,0 +1,14 @@
+,active,cc.y,color,data.properties.name,data.type,hover,id,label,read_cam0:size,renderer1:size,size,source,target,type
+0,False,,#8a6960,,registered,,669417,registered,2,7.96556162049,1,585463,122795,
+1,False,,#8a6960,,registered,,800564,registered,2,7.96556162049,1,585463,133373,
+2,False,,#8a6960,,registered,False,675905,registered,2,7.96556162049,1,586333,187273,
+3,False,,#8a6960,,registered,False,669483,registered,2,7.96556162049,1,592524,127371,
+4,False,,#8a6960,,registered,False,670719,registered,2,7.96556162049,1,592524,214296,
+5,False,,#d48a60,Shareholder,is officer of,,502635,Shareholder,2,7.96556162049,1,303929,187273,
+6,False,,#d48a60,Shareholder,is officer of,,502636,Shareholder,2,7.96556162049,1,311118,187273,
+7,False,,#d48a60,Shareholder,is officer of,,502637,Shareholder,2,7.96556162049,1,303934,187273,
+8,False,,#d48a60,Shareholder,is officer of,,502638,Shareholder,2,7.96556162049,1,311117,187273,
+9,False,,#d48a60,Shareholder,is officer of,,30696,Shareholder,2,7.96556162049,1,648863,122795,
+10,False,,#d48a60,Shareholder,is officer of,,30697,Shareholder,2,7.96556162049,1,648864,122795,curvedArrow
+11,False,2.0,#d48a60,Power of attorney,is officer of,False,68548,Power of attorney,2,7.96556162049,1,648864,122795,curvedArrow
+12,False,,#d48a60,Shareholder,is officer of,,68549,Shareholder,2,7.96556162049,1,648864,133373,

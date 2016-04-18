@@ -1,0 +1,7 @@
+,active,color,data.properties.date_end,data.properties.date_start,data.properties.name,data.type,hover,id,label,read_cam0:size,renderer1:size,size,source,target
+0,False,#d48a60,,06/03/2002,Power of Attorney,is officer of,False,69479,is officer of,2,11.4599971211,1,667747,144669
+1,False,#d48a60,,06/03/2002,Power of Attorney,is officer of,False,69480,is officer of,2,11.4599971211,1,667747,163792
+2,False,#d48a60,,,Shareholder,is officer of,,562506,is officer of,2,11.4599971211,1,475992,144669
+3,False,#8a6960,,,,registered,False,792288,registered,2,11.4599971211,1,583355,144669
+4,False,#8a6960,,,,registered,False,793752,registered,2,11.4599971211,1,583355,163792
+5,False,#d48a60,,,Shareholder,is officer of,,559355,is officer of,2,11.4599971211,1,403398,163792

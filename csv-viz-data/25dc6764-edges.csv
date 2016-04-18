@@ -1,0 +1,7 @@
+,active,color,data.properties.date_end,data.properties.date_start,data.properties.name,data.type,hover,id,label,read_cam0:size,renderer1:size,size,source,target
+0,False,#8a6960,,,,registered,False,705024,registered,2,12.6191468896,1,589972,208754
+1,False,#8a6960,,,,registered,False,728587,registered,2,12.6191468896,1,589972,13637
+2,False,#baaba3,,,,registered address,False,260153,registered address,2,12.6191468896,1,387401,524288
+3,False,#8a6960,,,,registered,False,739305,registered,2,12.6191468896,1,582684,121701
+4,False,#d48a60,,,Shareholder,is officer of,False,24387,Shareholder,2,12.6191468896,1,387401,121701
+5,False,#d48a60,04/05/2004,01/10/2002,Director,is officer of,False,69460,Director,2,12.6191468896,1,667736,208754

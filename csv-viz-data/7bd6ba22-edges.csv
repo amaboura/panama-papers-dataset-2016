@@ -1,0 +1,5 @@
+,cc.y,color,data.properties.date_end,data.properties.date_start,data.properties.name,data.type,id,label,read_cam0:size,renderer1:size,size,source,target,type
+0,,#d48a60,,30/09/1998,Director,is officer of,69454,is officer of,2,12.6191468896,1,667733,148184,
+1,,#d48a60,,21/01/1998,Director,is officer of,69466,is officer of,2,12.6191468896,1,667740,148184,curvedArrow
+2,2.0,#d48a60,,21/01/1998,Secretary,is officer of,69469,is officer of,2,12.6191468896,1,667740,148184,curvedArrow
+3,,#8a6960,,,,registered,802261,registered,2,12.6191468896,1,588157,148184,

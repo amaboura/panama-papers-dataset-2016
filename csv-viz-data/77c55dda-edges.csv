@@ -1,0 +1,6 @@
+,active,color,data.properties.date_end,data.properties.date_start,data.properties.name,data.type,id,label,read_cam0:size,renderer1:size,size,source,target
+0,False,#8a6960,,,,registered,627630,registered,2,12.6191468896,1,593773,40537
+1,False,#baaba3,,,,registered address,335574,registered address,2,12.6191468896,1,660338,665818
+2,False,#d48a60,,,Beneficiay,is officer of,60950,Beneficiay,2,12.6191468896,1,660338,40537
+3,False,#d48a60,,,Beneficial owner,is officer of,69447,Beneficial owner,2,12.6191468896,1,667728,40537
+4,False,#d48a60,,,Shareholder,is officer of,483752,Shareholder,2,12.6191468896,1,492434,40537

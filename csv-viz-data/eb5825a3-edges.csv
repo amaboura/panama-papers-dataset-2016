@@ -1,0 +1,7 @@
+,cc.y,color,data.properties.name,data.type,hover,id,label,read_cam0:size,renderer1:size,size,source,target,type
+0,,#d48a60,Shareholder,is officer of,False,27500,Shareholder,2,12.6191468896,1,389453,13923,
+1,,#d48a60,Shareholder,is officer of,False,27501,Shareholder,2,12.6191468896,1,389454,13923,curvedArrow
+2,2.0,#d48a60,Shareholder,is officer of,,68523,Shareholder,2,12.6191468896,1,389454,13923,curvedArrow
+3,,#baaba3,,registered address,False,256070,registered address,2,12.6191468896,1,389454,537152,
+4,,#8a6960,,registered,False,737655,registered,2,12.6191468896,1,581038,13923,
+5,,#baaba3,,registered address,,830115,registered address,2,12.6191468896,1,389453,553679,

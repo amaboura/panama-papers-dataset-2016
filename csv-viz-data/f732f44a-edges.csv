@@ -1,0 +1,5 @@
+,color,data.properties.date_end,data.properties.date_start,data.properties.name,data.type,hover,id,label,read_cam0:size,renderer1:size,size,source,target
+0,#8a6960,,,,registered,False,729464,registered,2,12.6191468896,1,585287,193820
+1,#d48a60,13/07/2013,15/07/2010,Power of attorney,is officer of,False,69525,Power of attorney,2,12.6191468896,1,667758,193820
+2,#d48a60,,,Shareholder,is officer of,False,845339,Shareholder,2,12.6191468896,1,460599,193820
+3,#d48a60,,,Shareholder,is officer of,False,845340,Shareholder,2,12.6191468896,1,460600,193820

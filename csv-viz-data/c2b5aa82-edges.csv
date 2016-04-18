@@ -1,0 +1,8 @@
+,active,cc.y,color,data.properties.name,data.properties.simil,data.type,id,label,read_cam0:size,renderer1:size,size,source,target,type
+0,False,,#baaba3,,,registered address,329807,registered address,2,12.6191468896,1,652373,523451,
+1,False,,#8a6960,,,registered,757176,registered,2,12.6191468896,1,582674,207317,
+2,False,,#baaba3,,,registered address,816405,registered address,2,12.6191468896,1,419080,523451,
+3,False,,#d48a60,,1.0,has similar name and address as,878482,has similar name and address as,2,12.6191468896,1,419080,652373,
+4,,,#d48a60,Beneficiay,,is officer of,53704,Beneficiay,2,12.6191468896,1,652373,207317,
+5,,,#d48a60,Beneficial Owner,,is officer of,68551,Beneficial Owner,2,12.6191468896,1,419080,207317,curvedArrow
+6,,2.0,#d48a60,Shareholder,,is officer of,415500,Shareholder,2,12.6191468896,1,419080,207317,curvedArrow

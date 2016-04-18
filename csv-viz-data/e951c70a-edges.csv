@@ -1,0 +1,11 @@
+,active,color,data.properties.date_end,data.properties.date_start,data.properties.name,data.type,hover,id,label,read_cam0:size,renderer1:size,size,source,target
+0,False,#8a6960,,,,registered,False,622545,registered,2,12.2827156028,1,586280,4264
+1,False,#baaba3,,,,registered address,,301758,registered address,2,12.2827156028,1,484393,500243
+2,False,#d48a60,,,Shareholder,is officer of,False,440857,Shareholder,2,12.2827156028,1,484392,4264
+3,False,#d48a60,,,Shareholder,is officer of,False,440858,Shareholder,2,12.2827156028,1,484391,4264
+4,False,#d48a60,,,Shareholder,is officer of,False,440859,Shareholder,2,12.2827156028,1,484390,4264
+5,False,#d48a60,,,Shareholder,is officer of,False,440860,Shareholder,2,12.2827156028,1,484393,4264
+6,False,#baaba3,,,,registered address,,816665,registered address,2,12.2827156028,1,484391,500243
+7,False,#baaba3,,,,registered address,,829387,registered address,2,12.2827156028,1,484390,500243
+8,False,#baaba3,,,,registered address,,868116,registered address,2,12.2827156028,1,484392,500243
+9,,#d48a60,,01/02/2006,Owner,is officer of,False,69556,Owner,2,12.2827156028,1,667775,4264

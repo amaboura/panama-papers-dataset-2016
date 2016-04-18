@@ -1,0 +1,9 @@
+,active,cc.y,color,data.properties.date_end,data.properties.date_start,data.properties.name,data.type,hover,id,label,read_cam0:size,renderer1:size,size,source,target,type
+0,False,,#d48a60,,21/01/1998,Director,is officer of,,69466,is officer of,2,8.60564633455,1,667740,148184,curvedArrow
+1,False,,#d48a60,,21/01/1998,Director,is officer of,False,69467,is officer of,2,8.60564633455,1,667740,132650,curvedArrow
+2,False,,#d48a60,,27/01/1998,Director,is officer of,False,69468,is officer of,2,8.60564633455,1,667740,71686,
+3,False,2.0,#d48a60,,21/01/1998,Secretary,is officer of,,69469,is officer of,2,8.60564633455,1,667740,148184,curvedArrow
+4,False,2.0,#d48a60,,21/01/1998,Secretary,is officer of,False,69470,is officer of,2,8.60564633455,1,667740,132650,curvedArrow
+5,False,,#8a6960,,,,registered,False,685720,registered,2,8.60564633455,1,588516,132650,
+6,False,,#8a6960,,,,registered,,779216,registered,2,8.60564633455,1,588516,71686,
+7,False,,#8a6960,,,,registered,,802261,registered,2,8.60564633455,1,588157,148184,

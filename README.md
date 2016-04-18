@@ -23,6 +23,18 @@ I wrote a detailed explanation [here](COLLECTION.md)
 	├── fb706ef9.json
     ├── fb7f4be3.json
     └── ff9bbc4d.json
+└── csv-viz-data
+    ├── 014fe3bc-nodes.csv
+    ├── 014fe3bc-edges.csv
+    ├── 02664021-nodes.csv
+     ...
+     ...
+     ...
+    ├── fb7f4be3-edges.csv
+    ├── ff9bbc4d-nodes.csv
+    └── ff9bbc4d-edges.csv
+└── iPython NB
+    ├── Panama Project.ipynb
 ```
 
 ### Explore the data
@@ -56,6 +68,12 @@ data-person-1-comment
 ICIJ report provided a set of visualizations that you can browser through this [link](https://panamapapers.icij.org/the_power_players/)
 
 Data content for these visualizations is a graph structure, each graph is encoded to a JSON file, named after the ``` data-person-1-viz-publish ``` attribute found in the main CSV file.
+
+#### Visualization nodes and edges csv data
+The JSON data is normalized and the nodes and edges data is given in different csvs.
+
+#### iPython Notebook
+An iPyhton notebook to load and normalize the json data and play around with it.
 
 #### Disclaimer
 I have nothing to do with ICIJ, This is just a small project i started to see if i can get the published data, and do some cool stuff with it.
