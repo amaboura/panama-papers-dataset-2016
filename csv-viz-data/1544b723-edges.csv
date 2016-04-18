@@ -1,0 +1,22 @@
+,active,cc.y,color,data.properties.name,data.properties.simil,data.type,hover,id,label,read_cam0:size,renderer1:size,size,source,target,type
+0,False,,#baaba3,,,registered address,False,272759,registered address,2,7.21134864436,1,398871,552278,
+1,False,,#baaba3,,,registered address,False,334113,registered address,2,7.21134864436,1,659363,552278,
+2,False,,#8a6960,,,registered,False,810424,registered,2,7.21134864436,1,593661,222385,
+3,False,,#d48a60,,1.0,has similar name and address as,False,881291,has similar name and address as,2,7.21134864436,1,398871,659363,
+4,False,,#d48a60,Beneficiary,,is officer of,False,59129,Beneficiary,2,7.21134864436,1,659363,222385,
+5,False,,#d48a60,Director and shareholder,,is officer of,False,68547,Director and shareholder,2,7.21134864436,1,398871,222385,curvedArrow
+6,False,,#baaba3,,,registered address,False,240157,registered address,2,7.21134864436,1,398870,542578,
+7,False,,#d48a60,,1.0,has similar name and address as,False,344850,has similar name and address as,2,7.21134864436,1,320219,393432,
+8,False,,#d48a60,,1.0,has similar name and address as,False,356147,has similar name and address as,2,7.21134864436,1,398870,320219,
+9,False,,#d48a60,,1.0,has similar name and address as,False,360588,has similar name and address as,2,7.21134864436,1,398870,393432,
+10,False,,#d48a60,Shareholder,,is officer of,False,579349,Shareholder,2,7.21134864436,1,398870,222385,
+11,False,,#d48a60,Shareholder,,is officer of,False,579350,Shareholder,2,7.21134864436,1,398869,222385,
+12,False,2.0,#d48a60,Shareholder,,is officer of,False,579351,Shareholder,2,7.21134864436,1,398871,222385,curvedArrow
+13,False,,#baaba3,,,registered address,False,862715,registered address,2,7.21134864436,1,398869,542578,
+14,False,,#baaba3,,,registered address,False,268758,registered address,2,7.21134864436,1,320219,542567,
+15,False,,#d48a60,Shareholder,,is officer of,False,389076,Shareholder,2,7.21134864436,1,320219,227328,
+16,False,,#d48a60,Shareholder,,is officer of,False,514862,Shareholder,2,7.21134864436,1,320219,32340,
+17,False,,#8a6960,,,registered,False,746812,registered,2,7.21134864436,1,593661,227328,
+18,,,#baaba3,,,registered address,False,283477,registered address,2,7.21134864436,1,393432,542569,
+19,,,#d48a60,Shareholder,,is officer of,,453454,Shareholder,2,7.21134864436,1,393432,246682,
+20,,,#8a6960,,,registered,,748877,registered,2,7.21134864436,1,593661,246682,

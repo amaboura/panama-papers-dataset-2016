@@ -1,0 +1,49 @@
+,active,cc.y,color,data.properties.name,data.properties.simil,data.type,hover,id,label,read_cam0:size,renderer1:size,size,source,target,type
+0,False,,#8a6960,,,registered,False,689942,registered,2,2.46331093727,1,582818,173963,
+1,False,,#8a6960,,,registered,False,784206,registered,2,2.46331093727,1,582818,1314,
+2,False,,#8a6960,,,registered,False,787070,registered,2,2.46331093727,1,582818,8131,
+3,False,,#8a6960,,,registered,False,787327,registered,2,2.46331093727,1,582818,280700,
+4,False,,#baaba3,,,registered address,False,241640,registered address,2,2.46331093727,1,464829,535279,
+5,False,,#8a6960,,,registered,False,762043,registered,2,2.46331093727,1,586404,62330,
+6,False,,#8a6960,,,registered,False,763379,registered,2,2.46331093727,1,586404,226781,
+7,False,,#8a6960,,,registered,False,764892,registered,2,2.46331093727,1,586404,190927,
+8,False,,#8a6960,,,registered,False,769433,registered,2,2.46331093727,1,586404,117432,
+9,False,,#baaba3,,,registered address,False,826955,registered address,2,2.46331093727,1,464828,535279,
+10,False,,#baaba3,,,registered address,,327779,registered address,2,2.46331093727,1,652036,535279,
+11,False,,#baaba3,,,registered address,,330718,registered address,2,2.46331093727,1,653905,535279,
+12,False,,#d48a60,,1.0,has similar name and address as,,841342,has similar name and address as,2,2.46331093727,1,464829,652036,
+13,False,,#d48a60,,1.0,has similar name and address as,False,879410,has similar name and address as,2,2.46331093727,1,464828,653905,
+14,False,,#d48a60,Beneficiay,,is officer of,False,51088,Beneficiay,2,2.46331093727,1,652036,226781,
+15,False,,#d48a60,Beneficiay,,is officer of,False,54813,Beneficiay,2,2.46331093727,1,653905,226781,
+16,False,,#d48a60,Director / Beneficial Owner,,is officer of,False,68487,Director / Beneficial Owner,2,2.46331093727,1,464829,280700,
+17,False,,#d48a60,Director / Beneficial Owner,,is officer of,False,68488,Director / Beneficial Owner,2,2.46331093727,1,464829,8131,
+18,False,,#d48a60,Director / Beneficial Owner,,is officer of,False,68489,Director / Beneficial Owner,2,2.46331093727,1,464829,173963,
+19,False,,#d48a60,Director / Beneficial Owner,,is officer of,False,68490,Director / Beneficial Owner,2,2.46331093727,1,464829,1314,
+20,False,,#d48a60,Power of Attorney,,is officer of,False,68491,Power of Attorney,2,2.46331093727,1,464829,117432,
+21,False,,#d48a60,Power of Attorney,,is officer of,False,68492,Power of Attorney,2,2.46331093727,1,464829,190927,curvedArrow
+22,False,,#d48a60,Power of Attorney,,is officer of,False,68493,Power of Attorney,2,2.46331093727,1,464829,62330,
+23,False,,#d48a60,Power of Attorney / Shareholder,,is officer of,,68494,Power of Attorney / Shareholder,2,2.46331093727,1,464829,226781,curvedArrow
+24,False,,#d48a60,Owner,,is officer of,,68570,Owner,2,2.46331093727,1,464828,190927,curvedArrow
+25,False,,#d48a60,Owner,,is officer of,False,68571,Owner,2,2.46331093727,1,464828,226781,curvedArrow
+26,False,,#d48a60,Owner,,is officer of,,68573,Owner,2,2.46331093727,1,417090,190927,
+27,False,,#d48a60,Owner,,is officer of,,68574,Owner,2,2.46331093727,1,417090,226781,
+28,False,2.0,#d48a60,Shareholder,,is officer of,False,450557,Shareholder,2,2.46331093727,1,464828,190927,curvedArrow
+29,False,2.0,#d48a60,Shareholder,,is officer of,False,450561,Shareholder,2,2.46331093727,1,464829,190927,curvedArrow
+30,False,2.0,#d48a60,Shareholder,,is officer of,False,602503,Shareholder,2,2.46331093727,1,464828,226781,curvedArrow
+31,False,2.0,#d48a60,Shareholder,,is officer of,,602504,Shareholder,2,2.46331093727,1,464829,226781,curvedArrow
+32,False,,#d48a60,Shareholder,,is officer of,False,602505,Shareholder,2,2.46331093727,1,465036,226781,
+33,False,,#d48a60,Shareholder,,is officer of,,602506,Shareholder,2,2.46331093727,1,465033,226781,
+34,False,,#d48a60,Shareholder,,is officer of,,602507,Shareholder,2,2.46331093727,1,465035,226781,
+35,False,,#d48a60,Shareholder,,is officer of,,602508,Shareholder,2,2.46331093727,1,465034,226781,
+36,False,,#d48a60,Shareholder,,is officer of,,40185,Shareholder,2,2.46331093727,1,462903,117432,
+37,False,,#d48a60,Shareholder,,is officer of,,40186,Shareholder,2,2.46331093727,1,462904,117432,
+38,False,,#d48a60,Shareholder,,is officer of,,40187,Shareholder,2,2.46331093727,1,462905,117432,
+39,False,,#d48a60,Shareholder,,is officer of,,40188,Shareholder,2,2.46331093727,1,462902,117432,
+40,False,,#d48a60,Shareholder,,is officer of,,404840,Shareholder,2,2.46331093727,1,463062,62330,
+41,False,,#d48a60,Shareholder,,is officer of,False,404841,Shareholder,2,2.46331093727,1,463063,62330,
+42,False,,#d48a60,Shareholder,,is officer of,False,404842,Shareholder,2,2.46331093727,1,463064,62330,
+43,False,,#d48a60,Shareholder,,is officer of,False,404843,Shareholder,2,2.46331093727,1,463065,62330,
+44,,,#d48a60,Shareholder,,is officer of,,450558,Shareholder,2,2.46331093727,1,464824,190927,
+45,,,#d48a60,Shareholder,,is officer of,False,450559,Shareholder,2,2.46331093727,1,464827,190927,
+46,,,#d48a60,Shareholder,,is officer of,,450560,Shareholder,2,2.46331093727,1,464826,190927,
+47,,,#d48a60,Shareholder,,is officer of,False,450562,Shareholder,2,2.46331093727,1,464825,190927,

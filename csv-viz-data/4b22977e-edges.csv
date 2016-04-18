@@ -1,0 +1,94 @@
+,color,data.properties.date_end,data.properties.date_start,data.properties.name,data.type,hover,id,label,read_cam0:size,renderer1:size,size,source,target
+0,#d48a60,,,Beneficiary,is officer of,,56712,is officer of,2,3.26966553075,1,653764,76642
+1,#d48a60,,29/11/1999,Sole signatory,is officer of,,69517,is officer of,2,3.26966553075,1,667752,76642
+2,#d48a60,,,Shareholder,is officer of,False,505125,is officer of,2,3.26966553075,1,302740,76642
+3,#8a6960,,,,registered,,671038,registered,2,3.26966553075,1,587847,76642
+4,#d48a60,,,Shareholder,is officer of,False,15030,is officer of,2,3.26966553075,1,302740,277479
+5,#d48a60,,,Shareholder,is officer of,False,25671,is officer of,2,3.26966553075,1,302740,148291
+6,#d48a60,,,Shareholder,is officer of,,33865,is officer of,2,3.26966553075,1,302740,32747
+7,#d48a60,,,Beneficiary,is officer of,,56706,is officer of,2,3.26966553075,1,653764,7950
+8,#d48a60,,,Beneficiary,is officer of,False,56707,is officer of,2,3.26966553075,1,653764,1431
+9,#d48a60,,,Beneficiary,is officer of,,56708,is officer of,2,3.26966553075,1,653764,30882
+10,#d48a60,,,Beneficiary,is officer of,,56709,is officer of,2,3.26966553075,1,653764,221515
+11,#d48a60,,,Beneficiary,is officer of,False,56710,is officer of,2,3.26966553075,1,653764,91001
+12,#d48a60,,,Beneficiary,is officer of,,56711,is officer of,2,3.26966553075,1,653764,256958
+13,#d48a60,,,Beneficiary,is officer of,False,56713,is officer of,2,3.26966553075,1,653764,172555
+14,#d48a60,,,Beneficiary,is officer of,,56714,is officer of,2,3.26966553075,1,653764,148291
+15,#d48a60,,,Beneficiary,is officer of,False,56715,is officer of,2,3.26966553075,1,653764,88127
+16,#d48a60,,,Beneficiary,is officer of,False,56716,is officer of,2,3.26966553075,1,653764,245626
+17,#d48a60,,,Beneficiary,is officer of,,56717,is officer of,2,3.26966553075,1,653764,208828
+18,#d48a60,,,Beneficiary,is officer of,,56718,is officer of,2,3.26966553075,1,653764,277479
+19,#d48a60,,,Beneficiary,is officer of,,56719,is officer of,2,3.26966553075,1,653764,9109
+20,#d48a60,,,Beneficial owner,is officer of,,69489,is officer of,2,3.26966553075,1,667752,263217
+21,#d48a60,,,Beneficial owner,is officer of,,69490,is officer of,2,3.26966553075,1,667752,243302
+22,#d48a60,,,Beneficial owner,is officer of,,69491,is officer of,2,3.26966553075,1,667752,60003
+23,#d48a60,,09/11/2005,Beneficial owner,is officer of,False,69493,is officer of,2,3.26966553075,1,667752,55834
+24,#d48a60,,10/01/2001,Beneficial owner,is officer of,False,69494,is officer of,2,3.26966553075,1,667752,245626
+25,#d48a60,,12/02/2007,Beneficial owner,is officer of,,69495,is officer of,2,3.26966553075,1,667752,91001
+26,#d48a60,,12/02/2007,Beneficial owner,is officer of,,69496,is officer of,2,3.26966553075,1,667752,7950
+27,#d48a60,,12/02/2007,Beneficial owner,is officer of,,69497,is officer of,2,3.26966553075,1,667752,256958
+28,#d48a60,,12/02/2007,Beneficial owner,is officer of,,69498,is officer of,2,3.26966553075,1,667752,253209
+29,#d48a60,,12/02/2007,Beneficial owner,is officer of,,69499,is officer of,2,3.26966553075,1,667752,208828
+30,#d48a60,,12/03/2003,Beneficial owner,is officer of,False,69500,is officer of,2,3.26966553075,1,667752,160463
+31,#d48a60,,12/06/2002,Beneficial owner,is officer of,,69501,is officer of,2,3.26966553075,1,667752,247722
+32,#d48a60,30/04/2013,12/09/2002,Beneficial owner,is officer of,,69502,is officer of,2,3.26966553075,1,667752,178308
+33,#d48a60,30/04/2015,16/07/2003,Beneficial owner,is officer of,,69503,is officer of,2,3.26966553075,1,667752,105769
+34,#d48a60,,17/07/2002,Beneficial owner,is officer of,,69504,is officer of,2,3.26966553075,1,667752,1318
+35,#d48a60,,17/07/2002,Beneficial owner,is officer of,False,69505,is officer of,2,3.26966553075,1,667752,261656
+36,#d48a60,,18/07/2005,Beneficial owner,is officer of,False,69506,is officer of,2,3.26966553075,1,667752,230780
+37,#d48a60,,18/10/2002,Beneficial owner,is officer of,,69507,is officer of,2,3.26966553075,1,667752,17187
+38,#d48a60,,21/04/2014,Beneficial owner,is officer of,,69508,is officer of,2,3.26966553075,1,667752,9109
+39,#d48a60,,22/02/2009,Beneficial owner,is officer of,,69509,is officer of,2,3.26966553075,1,667752,221515
+40,#d48a60,,22/02/2009,Beneficial owner,is officer of,,69510,is officer of,2,3.26966553075,1,667752,1431
+41,#d48a60,,23/06/2004,Beneficial owner,is officer of,,69511,is officer of,2,3.26966553075,1,667752,172555
+42,#d48a60,,23/06/2004,Beneficial owner,is officer of,,69512,is officer of,2,3.26966553075,1,667752,168342
+43,#d48a60,,25/04/1997,Beneficial owner,is officer of,,69513,is officer of,2,3.26966553075,1,667752,88127
+44,#d48a60,,25/05/2001,Beneficial owner,is officer of,,69515,is officer of,2,3.26966553075,1,667752,80469
+45,#d48a60,,29/11/1999,Sole signatory,is officer of,,69516,is officer of,2,3.26966553075,1,667752,30882
+46,#d48a60,,29/11/1999,Sole signatory / Beneficial owner,is officer of,,69518,is officer of,2,3.26966553075,1,667752,32747
+47,#d48a60,,,Shareholder,is officer of,,414306,is officer of,2,3.26966553075,1,302740,91001
+48,#d48a60,,,Shareholder,is officer of,,429965,is officer of,2,3.26966553075,1,302740,210238
+49,#d48a60,,,Shareholder,is officer of,,435604,is officer of,2,3.26966553075,1,302740,243302
+50,#d48a60,,,Shareholder,is officer of,,482781,is officer of,2,3.26966553075,1,302740,261656
+51,#d48a60,,,Shareholder,is officer of,,504145,is officer of,2,3.26966553075,1,302740,30882
+52,#d48a60,,,Shareholder,is officer of,False,505559,is officer of,2,3.26966553075,1,302740,221515
+53,#d48a60,,,Shareholder,is officer of,,505562,is officer of,2,3.26966553075,1,302740,245626
+54,#d48a60,,,Shareholder,is officer of,,506079,is officer of,2,3.26966553075,1,302740,7950
+55,#d48a60,,,Shareholder,is officer of,,512729,is officer of,2,3.26966553075,1,302740,88127
+56,#d48a60,,,Shareholder,is officer of,,518832,is officer of,2,3.26966553075,1,302740,160463
+57,#d48a60,,,Shareholder,is officer of,,521901,is officer of,2,3.26966553075,1,302740,80469
+58,#d48a60,,,Shareholder,is officer of,,540975,is officer of,2,3.26966553075,1,302740,55834
+59,#d48a60,,,Shareholder,is officer of,,541463,is officer of,2,3.26966553075,1,302740,230780
+60,#d48a60,,,Shareholder,is officer of,,544269,is officer of,2,3.26966553075,1,302740,1431
+61,#8a6960,,,,registered,,652992,registered,2,3.26966553075,1,587847,263217
+62,#8a6960,,,,registered,False,674121,registered,2,3.26966553075,1,587847,148291
+63,#8a6960,,,,registered,,674689,registered,2,3.26966553075,1,587847,243302
+64,#8a6960,,,,registered,,675004,registered,2,3.26966553075,1,587847,17187
+65,#8a6960,,,,registered,,677128,registered,2,3.26966553075,1,587847,88127
+66,#8a6960,,,,registered,,677151,registered,2,3.26966553075,1,587847,32747
+67,#8a6960,,,,registered,,679572,registered,2,3.26966553075,1,587847,7950
+68,#8a6960,,,,registered,,679882,registered,2,3.26966553075,1,587847,221515
+69,#8a6960,,,,registered,,679884,registered,2,3.26966553075,1,587847,245626
+70,#8a6960,,,,registered,,680003,registered,2,3.26966553075,1,587847,172555
+71,#8a6960,,,,registered,,692957,registered,2,3.26966553075,1,587847,80469
+72,#8a6960,,,,registered,,695317,registered,2,3.26966553075,1,587847,105769
+73,#8a6960,,,,registered,,699263,registered,2,3.26966553075,1,587847,160463
+74,#8a6960,,,,registered,,700618,registered,2,3.26966553075,1,587847,1318
+75,#8a6960,,,,registered,,700982,registered,2,3.26966553075,1,587847,178308
+76,#8a6960,,,,registered,,701771,registered,2,3.26966553075,1,587847,247722
+77,#8a6960,,,,registered,,703249,registered,2,3.26966553075,1,587847,261656
+78,#8a6960,,,,registered,,708404,registered,2,3.26966553075,1,587847,168342
+79,#8a6960,,,,registered,,710581,registered,2,3.26966553075,1,587847,256958
+80,#8a6960,,,,registered,,722674,registered,2,3.26966553075,1,587847,55834
+81,#8a6960,,,,registered,,723056,registered,2,3.26966553075,1,587847,208828
+82,#8a6960,,,,registered,,728197,registered,2,3.26966553075,1,587847,230780
+83,#8a6960,,,,registered,,730610,registered,2,3.26966553075,1,587847,1431
+84,#8a6960,,,,registered,,743517,registered,2,3.26966553075,1,587847,277479
+85,#8a6960,,,,registered,,757710,registered,2,3.26966553075,1,587847,9109
+86,#8a6960,,,,registered,,800987,registered,2,3.26966553075,1,587847,91001
+87,#8a6960,,,,registered,,801257,registered,2,3.26966553075,1,587847,30882
+88,#8a6960,,,,registered,,807982,registered,2,3.26966553075,1,587847,253209
+89,#8a6960,,,,registered,,808570,registered,2,3.26966553075,1,587847,210238
+90,#8a6960,,,,registered,,814062,registered,2,3.26966553075,1,587847,60003
+91,#d48a60,14/05/2012,05/01/2011,Beneficial owner,is officer of,,69492,is officer of,2,3.26966553075,1,667752,253328
+92,#8a6960,,,,registered,,753903,registered,2,3.26966553075,1,588190,253328

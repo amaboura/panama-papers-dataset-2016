@@ -1,0 +1,15 @@
+,active,color,data.properties.date_end,data.properties.date_start,data.properties.name,data.properties.simil,data.type,hover,id,label,read_cam0:size,renderer1:size,size,source,target
+0,False,#8a6960,,,,,registered,,608041,registered,2,11.4361391997,1,587257,601316
+1,False,#8a6960,,,,,registered,False,608449,registered,2,11.4361391997,1,587257,606329
+2,False,#8a6960,,,,,registered,,609569,registered,2,11.4361391997,1,587257,600602
+3,False,#d48a60,,16/07/2015,Principal beneficiary,,is officer of,,69519,Principal beneficiary,2,11.4361391997,1,667753,601316
+4,False,#d48a60,,16/07/2015,Principal beneficiary,,is officer of,,69520,Principal beneficiary,2,11.4361391997,1,667753,600602
+5,False,#d48a60,,20/07/2015,Principal beneficiary,,is officer of,,69521,Principal beneficiary,2,11.4361391997,1,667753,606329
+6,False,#d48a60,,,Shareholder,,is officer of,,555398,Shareholder,2,11.4361391997,1,630263,600602
+7,False,#d48a60,,,,1.0,has similar name and address as,,352345,has similar name and address as,2,11.4361391997,1,630263,630261
+8,False,#d48a60,,,Shareholder,,is officer of,False,424604,Shareholder,2,11.4361391997,1,630262,601316
+9,False,#d48a60,,,Shareholder,,is officer of,,424605,Shareholder,2,11.4361391997,1,630261,601316
+10,False,#d48a60,,,,1.0,has similar name and address as,,350938,has similar name and address as,2,11.4361391997,1,630263,637298
+11,False,#d48a60,,,,1.0,has similar name and address as,,361400,has similar name and address as,2,11.4361391997,1,637298,630261
+12,False,#d48a60,,,Shareholder,,is officer of,,556828,Shareholder,2,11.4361391997,1,637298,606329
+13,False,#d48a60,,,Shareholder,,is officer of,,556829,Shareholder,2,11.4361391997,1,637299,606329

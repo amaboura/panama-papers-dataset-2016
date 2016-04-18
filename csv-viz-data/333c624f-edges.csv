@@ -1,0 +1,17 @@
+,active,color,data.properties.date_end,data.properties.date_start,data.properties.name,data.properties.simil,data.type,hover,id,label,read_cam0:size,renderer1:size,size,source,target
+0,False,#d48a60,,,Owner,,is officer of,False,69550,is officer of,2,9.27839025449,1,667773,177503
+1,False,#d48a60,,,Owner,,is officer of,False,69551,is officer of,2,9.27839025449,1,667773,157549
+2,False,#d48a60,,,Owner,,is officer of,,69552,is officer of,2,9.27839025449,1,667773,39850
+3,False,#d48a60,,,Shareholder,,is officer of,,566360,is officer of,2,9.27839025449,1,389623,157549
+4,False,#d48a60,,,Shareholder,,is officer of,False,566361,is officer of,2,9.27839025449,1,389622,157549
+5,False,#8a6960,,,,,registered,False,726626,registered,2,9.27839025449,1,584227,177503
+6,False,#8a6960,,,,,registered,,742371,registered,2,9.27839025449,1,584227,157549
+7,False,#8a6960,,,,,registered,,745702,registered,2,9.27839025449,1,584227,39850
+8,False,#d48a60,,,Beneficiay,,is officer of,False,55145,is officer of,2,9.27839025449,1,653205,39850
+9,False,#d48a60,,,Shareholder,,is officer of,,533306,is officer of,2,9.27839025449,1,368961,177503
+10,False,#d48a60,,,Shareholder,,is officer of,False,570557,is officer of,2,9.27839025449,1,352198,39850
+11,False,#d48a60,,,Shareholder,,is officer of,False,570558,is officer of,2,9.27839025449,1,368961,39850
+12,,#d48a60,,,,1.0,has similar name and address as,,368111,has similar name and address as,2,9.27839025449,1,352198,370603
+13,,#d48a60,,,Shareholder,,is officer of,False,533304,is officer of,2,9.27839025449,1,370603,177503
+14,,#d48a60,,,Shareholder,,is officer of,False,533305,is officer of,2,9.27839025449,1,368797,177503
+15,,#d48a60,,,Shareholder,,is officer of,,533307,is officer of,2,9.27839025449,1,372406,177503

@@ -1,0 +1,9 @@
+,active,color,data.properties.date_end,data.properties.date_start,data.properties.name,data.type,id,label,read_cam0:size,renderer1:size,size,source,target
+0,False,#d48a60,,,Connected,is officer of,69546,is officer of,2,10.6015859239,1,667772,183324
+1,False,#d48a60,2005,,Connected,is officer of,69547,is officer of,2,10.6015859239,1,667772,221347
+2,False,#d48a60,,,First beneficiary,is officer of,69548,is officer of,2,10.6015859239,1,667772,168837
+3,False,#d48a60,,11/08/2013,Shareholder (through Julex Foundation),is officer of,69549,is officer of,2,10.6015859239,1,667772,252265
+4,False,#8a6960,,,,registered,623940,registered,2,10.6015859239,1,593777,252265
+5,False,#8a6960,,,,registered,639749,registered,2,10.6015859239,1,593777,221347
+6,False,#8a6960,,,,registered,763189,registered,2,10.6015859239,1,593777,168837
+7,False,#d48a60,,,Shareholder,is officer of,590416,is officer of,2,10.6015859239,1,432771,221347

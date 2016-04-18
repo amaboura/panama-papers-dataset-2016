@@ -1,0 +1,17 @@
+,active,cc.y,color,data.properties.name,data.type,hover,id,label,read_cam0:size,renderer1:size,size,source,target,type
+0,False,,#baaba3,,registered address,False,830825,registered address,2,10.4837622939,1,473254,519774,
+1,False,,#baaba3,,registered address,False,291073,registered address,2,10.4837622939,1,334206,500835,
+2,False,,#d48a60,Shareholder,is officer of,,37163,Shareholder,2,10.4837622939,1,648326,240121,curvedArrow
+3,False,,#d48a60,Director,is officer of,False,68529,Director,2,10.4837622939,1,648326,208909,
+4,False,2.0,#d48a60,Director,is officer of,False,68530,Director,2,10.4837622939,1,648326,240121,curvedArrow
+5,False,,#d48a60,Director,is officer of,False,68531,Director,2,10.4837622939,1,648326,217658,
+6,False,,#d48a60,Director,is officer of,False,68532,Director,2,10.4837622939,1,473254,208909,curvedArrow
+7,False,,#d48a60,Director,is officer of,False,68533,Director,2,10.4837622939,1,473254,240121,
+8,False,,#d48a60,Director,is officer of,False,68534,Director,2,10.4837622939,1,473254,217658,
+9,False,,#d48a60,Director,is officer of,False,68535,Director,2,10.4837622939,1,334206,208909,
+10,False,,#d48a60,Director,is officer of,False,68536,Director,2,10.4837622939,1,334206,240121,
+11,False,,#d48a60,Director,is officer of,False,68537,Director,2,10.4837622939,1,334206,217658,curvedArrow
+12,False,2.0,#d48a60,Shareholder,is officer of,False,467797,Shareholder,2,10.4837622939,1,334206,217658,curvedArrow
+13,False,2.0,#d48a60,Shareholder,is officer of,False,556524,Shareholder,2,10.4837622939,1,473254,208909,curvedArrow
+14,,,#8a6960,,registered,,604789,registered,2,10.4837622939,1,588146,208909,
+15,,,#8a6960,,registered,False,703001,registered,2,10.4837622939,1,588146,217658,

@@ -1,0 +1,4 @@
+,active,color,data.properties.date_end,data.properties.date_start,data.properties.name,data.type,id,label,read_cam0:size,renderer1:size,size,source,target
+0,False,#d48a60,,06/12/2005,Power of attorney,is officer of,69544,is officer of,2,12.6191468896,1,667770,276288
+1,False,#d48a60,,,Shareholder,is officer of,481060,is officer of,2,12.6191468896,1,484171,276288
+2,False,#8a6960,,,,registered,621665,registered,2,12.6191468896,1,587991,276288

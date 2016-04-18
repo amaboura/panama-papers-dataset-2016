@@ -1,0 +1,5 @@
+,active,color,data.properties.date_end,data.properties.date_start,data.properties.name,data.type,id,label,read_cam0:size,renderer1:size,size,source,target
+0,False,#d48a60,,,Power of Attorney,is officer of,69471,is officer of,2,12.6191468896,1,667741,214444
+1,False,#d48a60,,,Shareholder,is officer of,580829,is officer of,2,12.6191468896,1,394864,214444
+2,False,#8a6960,,,,registered,749041,registered,2,12.6191468896,1,583897,214444
+3,False,#baaba3,,,,registered address,296167,registered address,2,12.6191468896,1,394864,531666

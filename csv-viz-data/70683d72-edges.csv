@@ -1,0 +1,5 @@
+,active,color,data.properties.date_end,data.properties.date_start,data.properties.name,data.type,hover,id,label,read_cam0:size,renderer1:size,size,source,target
+0,False,#8a6960,,,,registered,False,795598,registered,2,12.6191468896,1,585157,233195
+1,False,#d48a60,,,Shareholder,is officer of,False,503658,Shareholder,2,12.6191468896,1,487817,233195
+2,False,#baaba3,,,,registered address,False,818991,registered address,2,12.6191468896,1,487817,528064
+3,,#d48a60,,07/05/2007,Shareholder,is officer of,False,69482,Shareholder,2,12.6191468896,1,667749,233195
