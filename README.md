@@ -1,5 +1,8 @@
 # Panama Papers Dataset 2016
 Structured data about Panama papers collected from the official ICIJ website 
+
+**Update:** The *full dataset* that has been released by ICIJ recently is available [here](https://offshoreleaks.icij.org/pages/database)
+
 ### How were the data collected ?
 I wrote a detailed explanation [here](COLLECTION.md)
 ### Dataset structure
